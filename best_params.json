@@ -1,0 +1,90 @@
+{
+  "pub1 low var": {
+    "best_param_combo": "(0.5, 10, 0.1, 5, 25, 0.2)",
+    "best_avg": 4.963680044166913
+  },
+  "pub1 high var": {
+    "best_param_combo": "(0.5, 50, 0.1, 4, 20, 0.1)",
+    "best_avg": 20.182582536960272
+  },
+  "gamma pub2, regular splits": {
+    "best_param_combo": "(0.1, 10, 1, 4, 20, 0.2)",
+    "best_avg": 4.6129656568552
+  },
+  "gamma pub2, gamma splits": {
+    "best_param_combo": "(0.1, 20, 5, 4, 20, 0.2)",
+    "best_avg": 4.703171205553296
+  },
+  "pub2 low var": {
+    "best_param_combo": "(0.1, 20, 1, 4, 20, 0.2)",
+    "best_avg": 6.951666333994842
+  },
+  "pub2 high var": {
+    "best_param_combo": "(0.1, 10, 0.1, 4, 10, 0.05)",
+    "best_avg": 20.385098367864344
+  },
+  "lin": {
+    "best_param_combo": "(0.1, 20, 0.1, 4, 20, 0.2)",
+    "best_avg": 8.038020868998311
+  },
+  "old hvar gamma pub2, gamma splits": {
+    "best_param_combo": "(0.1, 20, 1, 4, 10, 0.2)",
+    "best_avg": 7.289780047913625
+  },
+  "hvar gamma pub2, regular splits": {
+    "best_param_combo": "(0.1, 20, 1, 4, 10, 0.2)",
+    "best_avg": 7.2993923756319266
+  },
+  "old pois pub2, pois splits": {
+    "best_param_combo": "(0.1, 20, 0.1, 4, 20, 0.2)",
+    "best_avg": 4.889987734800949
+  },
+  "pois pub2, regular splits": {
+    "best_param_combo": "(0.1, 10, 0.1, 4, 10, 0.2)",
+    "best_avg": 4.702765234235558
+  },
+  "pois pub2, pois splits": {
+    "best_param_combo": "(0.1, 10, 1, 4, 10, 0.05)",
+    "best_avg": 4.7708957076177025
+  },
+  "hvar gamma pub2, gamma splits": {
+    "best_param_combo": "(0.1, 10, 0.1, 4, 20, 0.2)",
+    "best_avg": 7.205732878585904
+  },
+  "pub2, pois splits": {
+    "best_param_combo": "(0.1, 20, 0.1, 4, 20, 0.05)",
+    "best_avg": 6.758379672807953
+  },
+  "pub2, gamma splits": {
+    "best_param_combo": "(0.1, 20, 0.1, 4, 20, 0.05)",
+    "best_avg": 6.995974631662049
+  },
+  "pub1, pois splits": {
+    "best_param_combo": "(0.1, 20, 5, 4, 20, 0.05)",
+    "best_avg": 5.194818162170716
+  },
+  "pub1, gamma splits": {
+    "best_param_combo": "(0.1, 20, 1, 4, 20, 0.05)",
+    "best_avg": 5.11713615489816
+  },
+  "hvar pub2, pois splits": {
+    "best_param_combo": "(0.1, 10, 5, 4, 10, 0.05)",
+    "best_avg": 19.902171416256788
+  },
+  "pub2, lin splits": {
+    "best_param_combo": "(0.1, 10, 1, 4, 10, 0.2)",
+    "best_avg": 6.724900793816357
+  },
+  "pub2 high var 2k lines": {
+    "best_param_combo": "(0.5, 10, 5, 4, 20, 0.05)",
+    "best_avg": 21.113557781974897
+  },
+  "hvar pub2, lin splits": {
+    "best_param_combo": "(0.1, 20, 0.1, 4, 20, 0.05)",
+    "best_avg": 20.37849504290849
+  },
+  "pois pub2, lin splits": {
+    "best_param_combo": "(0.1, 20, 1, 4, 20, 0.05)",
+    "best_avg": 5.002003002191119
+  }
+}
